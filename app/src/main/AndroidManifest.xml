@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.example.kaktusx.snowproject">
+    package="ac.shenkar.kaktusx.snowproject">
 
     <application
         android:allowBackup="true"
@@ -9,7 +9,7 @@
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
         <activity
-            android:name=".Menu"
+            android:name="ac.shenkar.kaktusx.snowproject.Menu"
             android:configChanges="orientation|keyboardHidden|screenSize"
             android:screenOrientation="landscape">
             <intent-filter>
@@ -19,15 +19,19 @@
             </intent-filter>
         </activity>
         <activity
-            android:name=".MainActivity"
+            android:name="ac.shenkar.kaktusx.snowproject.MainActivity"
             android:configChanges="orientation|keyboardHidden|screenSize"
             android:screenOrientation="landscape">
         </activity>
         <activity
-            android:name=".Highscore"
+            android:name="ac.shenkar.kaktusx.snowproject.Highscore"
             android:configChanges="orientation|keyboardHidden|screenSize"
             android:screenOrientation="landscape">
         </activity>
+        <meta-data
+            android:name="io.fabric.ApiKey"
+            android:value="11a37e9f205b827929f2d37fa11c5c1e0aca6951" />
     </application>
 
+    <uses-permission android:name="android.permission.INTERNET" />
 </manifest>

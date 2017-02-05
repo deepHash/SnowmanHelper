@@ -5,7 +5,7 @@
     android:id="@+id/activity_main"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context="com.example.kaktusx.snowproject.MainActivity">
+    tools:context="ac.shenkar.kaktusx.snowproject.MainActivity">
 
 
     <ImageView
@@ -14,6 +14,7 @@
         android:layout_height="40dp"
         android:contentDescription="@string/snow_life"
         android:src="@drawable/life"
+        android:tint="@color/lightGrey"
         tools:layout_constraintTop_creator="1"
         tools:layout_constraintRight_creator="1"
         app:layout_constraintRight_toRightOf="parent"
@@ -27,6 +28,7 @@
         android:layout_height="0dp"
         android:contentDescription="@string/snow_life"
         android:src="@drawable/life"
+        android:tint="@color/lightGrey"
         tools:layout_constraintTop_creator="1"
         tools:layout_constraintRight_creator="1"
         tools:layout_constraintBottom_creator="1"
@@ -46,6 +48,7 @@
         android:layout_height="0dp"
         android:contentDescription="@string/snow_life"
         android:src="@drawable/life"
+        android:tint="@color/lightGrey"
         tools:layout_constraintTop_creator="1"
         tools:layout_constraintRight_creator="1"
         tools:layout_constraintBottom_creator="1"
@@ -65,6 +68,7 @@
         android:layout_height="0dp"
         android:contentDescription="@string/snow_life"
         android:src="@drawable/life"
+        android:tint="@color/lightGrey"
         tools:layout_constraintTop_creator="1"
         tools:layout_constraintRight_creator="1"
         tools:layout_constraintBottom_creator="1"
@@ -84,6 +88,7 @@
         android:layout_height="0dp"
         android:contentDescription="@string/snow_life"
         android:src="@drawable/life"
+        android:tint="@color/lightGrey"
         tools:layout_constraintTop_creator="1"
         tools:layout_constraintRight_creator="1"
         tools:layout_constraintBottom_creator="1"
@@ -100,7 +105,6 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:text="@string/play_game"
-        android:onClick="playButtonListener"
         tools:layout_constraintBottom_creator="1"
         app:layout_constraintBottom_toBottomOf="parent"
         tools:layout_constraintLeft_creator="1"

@@ -1,11 +1,11 @@
 [
     {
-        "merged": "C:\\Users\\KaktusX\\Google Drive\\Studies\\My\\Mobile1\\SnowProject\\app\\build\\intermediates\\res\\merged\\release\\layout\\select_dialog_singlechoice_material.xml",
-        "source": "C:\\Users\\KaktusX\\Google Drive\\Studies\\My\\Mobile1\\SnowProject\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\layout\\select_dialog_singlechoice_material.xml"
-    },
-    {
         "merged": "C:\\Users\\KaktusX\\Google Drive\\Studies\\My\\Mobile1\\SnowProject\\app\\build\\intermediates\\res\\merged\\release\\layout\\abc_popup_menu_header_item_layout.xml",
         "source": "C:\\Users\\KaktusX\\Google Drive\\Studies\\My\\Mobile1\\SnowProject\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\layout\\abc_popup_menu_header_item_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\KaktusX\\Google Drive\\Studies\\My\\Mobile1\\SnowProject\\app\\build\\intermediates\\res\\merged\\release\\layout\\select_dialog_singlechoice_material.xml",
+        "source": "C:\\Users\\KaktusX\\Google Drive\\Studies\\My\\Mobile1\\SnowProject\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\layout\\select_dialog_singlechoice_material.xml"
     },
     {
         "merged": "C:\\Users\\KaktusX\\Google Drive\\Studies\\My\\Mobile1\\SnowProject\\app\\build\\intermediates\\res\\merged\\release\\layout\\abc_action_bar_title_item.xml",
@@ -16,12 +16,12 @@
         "source": "C:\\Users\\KaktusX\\Google Drive\\Studies\\My\\Mobile1\\SnowProject\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\layout\\abc_screen_simple_overlay_action_mode.xml"
     },
     {
-        "merged": "C:\\Users\\KaktusX\\Google Drive\\Studies\\My\\Mobile1\\SnowProject\\app\\build\\intermediates\\res\\merged\\release\\layout\\notification_template_media.xml",
-        "source": "C:\\Users\\KaktusX\\Google Drive\\Studies\\My\\Mobile1\\SnowProject\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\layout\\notification_template_media.xml"
-    },
-    {
         "merged": "C:\\Users\\KaktusX\\Google Drive\\Studies\\My\\Mobile1\\SnowProject\\app\\build\\intermediates\\res\\merged\\release\\layout\\abc_action_bar_view_list_nav_layout.xml",
         "source": "C:\\Users\\KaktusX\\Google Drive\\Studies\\My\\Mobile1\\SnowProject\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\layout\\abc_action_bar_view_list_nav_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\KaktusX\\Google Drive\\Studies\\My\\Mobile1\\SnowProject\\app\\build\\intermediates\\res\\merged\\release\\layout\\notification_template_media.xml",
+        "source": "C:\\Users\\KaktusX\\Google Drive\\Studies\\My\\Mobile1\\SnowProject\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\layout\\notification_template_media.xml"
     },
     {
         "merged": "C:\\Users\\KaktusX\\Google Drive\\Studies\\My\\Mobile1\\SnowProject\\app\\build\\intermediates\\res\\merged\\release\\layout\\abc_activity_chooser_view.xml",

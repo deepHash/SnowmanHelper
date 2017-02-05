@@ -5,7 +5,7 @@
     android:id="@+id/activity_highscore"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context="com.example.kaktusx.snowproject.Highscore">
+    tools:context="ac.shenkar.kaktusx.snowproject.Highscore">
 
     <TextView
         android:text=""

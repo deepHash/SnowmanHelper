@@ -48,12 +48,12 @@
         "source": "C:\\Users\\KaktusX\\Google Drive\\Studies\\My\\Mobile1\\SnowProject\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable-mdpi-v4\\abc_ic_menu_selectall_mtrl_alpha.png"
     },
     {
-        "merged": "C:\\Users\\KaktusX\\Google Drive\\Studies\\My\\Mobile1\\SnowProject\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\abc_scrubber_control_off_mtrl_alpha.png",
-        "source": "C:\\Users\\KaktusX\\Google Drive\\Studies\\My\\Mobile1\\SnowProject\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable-mdpi-v4\\abc_scrubber_control_off_mtrl_alpha.png"
-    },
-    {
         "merged": "C:\\Users\\KaktusX\\Google Drive\\Studies\\My\\Mobile1\\SnowProject\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\abc_ic_commit_search_api_mtrl_alpha.png",
         "source": "C:\\Users\\KaktusX\\Google Drive\\Studies\\My\\Mobile1\\SnowProject\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable-mdpi-v4\\abc_ic_commit_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "C:\\Users\\KaktusX\\Google Drive\\Studies\\My\\Mobile1\\SnowProject\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\abc_scrubber_control_off_mtrl_alpha.png",
+        "source": "C:\\Users\\KaktusX\\Google Drive\\Studies\\My\\Mobile1\\SnowProject\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable-mdpi-v4\\abc_scrubber_control_off_mtrl_alpha.png"
     },
     {
         "merged": "C:\\Users\\KaktusX\\Google Drive\\Studies\\My\\Mobile1\\SnowProject\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\abc_switch_track_mtrl_alpha.9.png",
