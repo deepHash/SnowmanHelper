@@ -411,7 +411,7 @@
     <string name="abc_shareactionprovider_share_with_application">Share with %s</string>
     <string name="abc_toolbar_collapse_description">Collapse</string>
     <string name="app_name">SnowProject</string>
-    <string name="com.crashlytics.android.build_id" ns1:ignore="UnusedResources,TypographyDashes" translatable="false">d785a1ac-cb08-4c6b-88bb-4a566dbb7010</string>
+    <string name="com.crashlytics.android.build_id" ns1:ignore="UnusedResources,TypographyDashes" translatable="false">ddf107ee-ed4d-4447-aadf-69b2023bf3e1</string>
     <string name="level_label">Level:</string>
     <string name="max_number">99</string>
     <string name="play_game">Play Game</string>

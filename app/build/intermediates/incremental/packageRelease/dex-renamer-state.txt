@@ -1,4 +1,0 @@
-#Sun Feb 05 16:41:12 IST 2017
-base.0=C\:\\Users\\KaktusX\\Google Drive\\Studies\\My\\Mobile1\\SnowProject\\app\\build\\intermediates\\transforms\\dex\\release\\folders\\1000\\1f\\main
-renamed.0=classes.dex
-file.0=C\:\\Users\\KaktusX\\Google Drive\\Studies\\My\\Mobile1\\SnowProject\\app\\build\\intermediates\\transforms\\dex\\release\\folders\\1000\\1f\\main\\classes.dex
